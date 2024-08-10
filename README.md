@@ -1,22 +1,18 @@
 # PMP | PSM | PSPO | ITIL 4 | SSYB | Investigador RENACYT
 
-#### 💼Ingeniero con 9 años de experiencia en proyectos tecnológicos en diversas plataformas para el sector minería, educación, social, salud, banca, gas y energía. 
-
-#### ⚒Certificado como PMP, PSM, PSPO, ITIL 4, SSYB, e Investigador RENACYT.
-
-#### 🎓Doctor en automatización de procesos, Máster en ingeniería informática, MBA, MBI, Ingeniero de sistemas.
-
-#### 📓Autor y revisor de artículos científicos sobre inteligencia artificial, IoT, automatización de procesos, procesamiento de imágenes y blockchain.
-
-#### 👨‍🏫Catedrático universitario, asesor y jurado de tesis.
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Educación
+- Doctorado en automatización de procesos | Universidad de Piura (_Perú_) 		
+- Maestría en Innovación Empresarial | Universidad Politécnica de Valencia (_España_)
+- Maestría en Administración de Empresas | EUCIM Business School (_EE.UU._)
+- Maestría en Ingeniería Informática | Universidad de Deusto (_España_)
+- Ingeniería de Sistemas | Universidad Nacional de Cajamarca (_Perú_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Jefe de proyectos de I+D+i @ MS4M (_Agosto 2024 - Actualidad_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+
+**Gestor de proyectos @ MS4M (_Abril 2023 - Agosto 2024_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
