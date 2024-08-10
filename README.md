@@ -1,6 +1,14 @@
-# Data Scientist
+# PMP | PSM | PSPO | ITIL 4 | SSYB | Investigador RENACYT
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### 💼Ingeniero con 9 años de experiencia en proyectos tecnológicos en diversas plataformas para el sector minería, educación, social, salud, banca, gas y energía. 
+
+#### ⚒Certificado como PMP, PSM, PSPO, ITIL 4, SSYB, e Investigador RENACYT.
+
+#### 🎓Doctor en automatización de procesos, Máster en ingeniería informática, MBA, MBI, Ingeniero de sistemas.
+
+#### 📓Autor y revisor de artículos científicos sobre inteligencia artificial, IoT, automatización de procesos, procesamiento de imágenes y blockchain.
+
+#### 👨‍🏫Catedrático universitario, asesor y jurado de tesis.
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
